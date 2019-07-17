@@ -4,8 +4,8 @@ if number>1 and number<1000:
         if(number%i==0):
             print("no")
             break
-        else:
-            print("yes")
+    else:
+        print("yes")
 else:
     print("no")
         
