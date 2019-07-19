@@ -8,3 +8,5 @@ if n<=100000:
         temp//=10
 if n == sum:
     print("yes")
+else:
+    print("no")
